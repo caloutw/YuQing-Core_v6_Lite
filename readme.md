@@ -109,10 +109,22 @@ gender 0是女生 1是男生，合乎常理<br>
 好了，搞定了，你就存檔然後回到底層資料夾，就是你會看到data template啥的那個介面，右鍵「在終端開啟」還是「使用powershell開啟」，我不知道我太久沒用Windows<br>
 MacOS 跟 Linux 就用 cd 進資料夾吧<br>
 <br>
-然後
+然後Linux:
 ```shell
 chmod 777 ./start.sh
 ./start.sh
+```
+
+如果是windows(nodejs):
+```shell
+npm i
+node main.js
+```
+
+如果是windows(python):
+```shell
+pip install -r requirements
+python main.py
 ```
 
 # 順帶一提
