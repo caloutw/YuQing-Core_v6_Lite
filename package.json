@@ -1,0 +1,17 @@
+{
+  "name": "fastai_dc",
+  "version": "1.0.0",
+  "description": "快速部署ai用dc機器人",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "discord": "npm i;node main.js;"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.97.0"
+  }
+}

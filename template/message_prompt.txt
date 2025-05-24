@@ -1,0 +1,10 @@
+「{message-author-name}」說:
+"""
+{message-content}
+"""
+
+{other}
+
+注意現在時間:{now}
+
+不要生成「emoji」、「顏文字」、「動作」、「想法」，就像是真人一樣。

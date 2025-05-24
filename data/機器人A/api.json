@@ -1,0 +1,41 @@
+{
+    "bot":{
+        "name": "機器人叫啥",
+        "gender": 0,
+        "personality": "機器人個性",
+        "like": {
+            "food": "機器人喜歡吃啥，大概是機油吧...",
+            "color": "機器人喜歡啥顏色"
+        },
+        "info": {
+            "height": 0,
+            "weight": 0,
+            "birthday": {
+                "year": 2000,
+                "month": 1,
+                "day": 1
+            },
+            "CWH":{
+                "C": 0,
+                "Cd":0,
+                "W": 0,
+                "H": 0
+            }
+        },
+        "master": {
+            "id": "去Discord，點左下角的名字那個匡，複製ID",
+            "call": "機器人怎麼叫你",
+            "name": "你叫什麼",
+            "position": "你是這個機器人的誰"
+        },
+        "language": "會說啥語言",
+        "example":[
+            "說話範例1",
+            "說話範例2",
+            "說話範例3",
+            "你還需要下一個就自己加上，用英文逗號隔開"
+        ]
+    },
+    "token": "剛剛拿到Discord Dev的token",
+    "llm_key": "剛剛拿到AiStudio的API Key"
+}
